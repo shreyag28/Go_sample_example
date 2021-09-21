@@ -1,0 +1,8 @@
+{"Time":"2021-09-17T11:28:18.2826615+05:30","Action":"run","Package":"mymod","Test":"TestSquare"}
+{"Time":"2021-09-17T11:28:18.2837434+05:30","Action":"output","Package":"mymod","Test":"TestSquare","Output":"=== RUN   TestSquare\n"}
+{"Time":"2021-09-17T11:28:18.2837434+05:30","Action":"output","Package":"mymod","Test":"TestSquare","Output":"    hello_test.go:8: 4\n"}
+{"Time":"2021-09-17T11:28:18.2837434+05:30","Action":"output","Package":"mymod","Test":"TestSquare","Output":"--- PASS: TestSquare (0.00s)\n"}
+{"Time":"2021-09-17T11:28:18.2837434+05:30","Action":"pass","Package":"mymod","Test":"TestSquare","Elapsed":0}
+{"Time":"2021-09-17T11:28:18.2843933+05:30","Action":"output","Package":"mymod","Output":"PASS\n"}
+{"Time":"2021-09-17T11:28:18.3880818+05:30","Action":"output","Package":"mymod","Output":"ok  \tmymod\t0.274s\n"}
+{"Time":"2021-09-17T11:28:18.3880818+05:30","Action":"pass","Package":"mymod","Elapsed":0.274}

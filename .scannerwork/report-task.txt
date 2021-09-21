@@ -1,0 +1,6 @@
+projectKey=ALM_Go_Sonar_Demo:master
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=ALM_Go_Sonar_Demo%3Amaster
+ceTaskId=AXvydK-EEICqAK1zfJLo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXvydK-EEICqAK1zfJLo
